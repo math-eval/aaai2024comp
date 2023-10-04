@@ -38,6 +38,7 @@ Here, we provide a real sample from TAL-SAQ6K-EN and TAL-SAQ7K-CN respectively.
     "knowledge_point_routes": ["竞赛-&gt;知识点-&gt;排列组合与概率-&gt;概率初步"]
 }
 ```
+In addition, the file **submission_example.json** is an example prediction result json file for submission, when submitting, **rename it as TAL_SAQ7K_CN_prediction.json**, and put it into a directory, then go inside the directory to do zip, and finally upload the zip file for submission.
 
 ### Licensing Information
 
